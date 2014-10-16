@@ -9,3 +9,15 @@ Installing
 Using the pypi package::
 
   $ pip install -U wstool
+
+
+Contributing
+------------
+
+Set up the environment by sourcing the env.sh file
+
+  $ source env.sh
+
+
+
+
